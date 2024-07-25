@@ -1772,6 +1772,7 @@
         },
         "iframe": false,
         "checkStatus": false,
+        "estado": 1,
         "website": "https://www.canal57.cl"
     },
     {
@@ -1803,6 +1804,7 @@
         },
         "iframe": false,
         "checkStatus": false,
+        "estado": 1,
         "website": "https://www.unetev.cl"
     },
     {
@@ -1978,6 +1980,7 @@
         },
         "iframe": false,
         "checkStatus": false,
+        "estado": 1,
         "website": "https://www.canaltv8.cl/"
     },
     {
@@ -2121,6 +2124,7 @@
         },
         "iframe": false,
         "checkStatus": false,
+        "estado": 1,
         "website": "https://atvvaldivia.cl/"
     },
     {
@@ -2312,6 +2316,7 @@
         },
         "iframe": true,
         "checkStatus": false,
+        "estado": 1,
         "website": "https://www.radiomagallanes.cl/"
     },
     {
