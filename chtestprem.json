@@ -739,7 +739,7 @@
         "id": "monitv",
         "name": "Moni TV",
         "url": "https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8",
-        "logo": "https://monitv.net/wp-content/uploads/2024/02/monitv202322.png",
+        "logo": "https://monitv.net/wp-content/uploads/2024/11/cropped-moniTV-FACE-32x32.jpg",
         "categoria": "entretencion",
         "parrilla": "",
         "transmitiendo": {
@@ -832,6 +832,22 @@
         "website": "https://kanade.cl/"
     },
     {
+        "id": "animestation",
+        "name": "Anime Station",
+        "url": "https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8",
+        "logo": "https://tv.wurtlitzer.com/imagenes/categoria/animacion/anime_station.png",
+        "categoria": "entretencion",
+        "parrilla": "",
+        "transmitiendo": {
+            "current": "",
+            "next": ""
+        },
+        "iframe": false,
+        "checkStatus": true,
+        "estado": 1,
+        "website": "https://animestationtv.com/"
+    },
+    {
         "id": "magickids",
         "name": "Magic Kids",
         "url": "https://magicstream.ddns.net/magicstream/stream.m3u8",
@@ -862,6 +878,54 @@
         "checkStatus": true,
         "estado": 1,
         "website": "https://www.latinokids.online/"
+    },
+    {
+        "id": "gogoplay",
+        "name": "GoGo Play",
+        "url": "https://ssh101-fl.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8",
+        "logo": "https://tv.wurtlitzer.com/imagenes/categoria/animacion/gogoplaytv.png",
+        "categoria": "entretencion",
+        "parrilla": "",
+        "transmitiendo": {
+            "current": "",
+            "next": ""
+        },
+        "iframe": false,
+        "checkStatus": true,
+        "estado": 1,
+        "website": "https://www.gogoplaytv.com/"
+    },
+    {
+        "id": "variedtv",
+        "name": "Varied TV",
+        "url": "https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8",
+        "logo": "https://tv.wurtlitzer.com/imagenes/categoria/animacion/varied_tv.png",
+        "categoria": "entretencion",
+        "parrilla": "",
+        "transmitiendo": {
+            "current": "",
+            "next": ""
+        },
+        "iframe": false,
+        "checkStatus": true,
+        "estado": 1,
+        "website": "https://www.variedtv.online/"
+    },
+    {
+        "id": "dreikotv",
+        "name": "Dreiko Tv",
+        "url": "https://cloudvideo.servers10.com:8081/8096/index.m3u8",
+        "logo": "https://tv.wurtlitzer.com/imagenes/categoria/animacion/dreiko_tv.png",
+        "categoria": "entretencion",
+        "parrilla": "",
+        "transmitiendo": {
+            "current": "",
+            "next": ""
+        },
+        "iframe": false,
+        "checkStatus": true,
+        "estado": 1,
+        "website": "https://www.dreikotv.com/"
     },
     {
         "id": "ntv",
@@ -910,6 +974,22 @@
         "checkStatus": true,
         "estado": 1,
         "website": "https://area593.com/"
+    },
+    {
+        "id": "chiquilines",
+        "name": "Chiquilines",
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8",
+        "logo": "https://tv.wurtlitzer.com/imagenes/categoria/animacion/chiquilines.png",
+        "categoria": "entretencion",
+        "parrilla": "",
+        "transmitiendo": {
+            "current": "",
+            "next": ""
+        },
+        "iframe": false,
+        "checkStatus": true,
+        "estado": 1,
+        "website": "https://www.freetv.com/peliculas/chiquilines/"
     },
     {
         "id": "retroplus",
